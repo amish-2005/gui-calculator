@@ -1,2 +1,2 @@
 # gui-calculator
-a cool calculator which i create and it fucking works
+a cool calculator which i created and it fucking works
